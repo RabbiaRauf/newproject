@@ -1,0 +1,49 @@
+
+.heading1{
+	text-align:center;
+    font-weight: bold;
+    font-size: -webkit-xxx-large;
+    margin: -22px;
+}
+.heading2{
+	text-align: center;
+    font-weight: bold;
+    font-size: 29px;
+    margin: 19px;
+}
+.heading2 .small{
+	    font-size: smaller;
+}
+.para{
+	    text-align: center;
+    font-size: 18px;
+    margin: -37px 0px 0px 0px;
+}
+.para .Date{
+	color: red;
+}
+table{
+	width: 100%
+}
+.table-head{
+	border: 2px solid black;
+	text-align: center;
+	font-size: 16px;
+    height: 50px;
+}
+.table-data{
+	border: 2px solid black;
+    height: 38px;
+}
+
+.table-data a{
+
+	text-decoration: none ;
+	color: black;
+}
+
+.videos {
+
+	height: 20%;
+	width: 20%;
+}
